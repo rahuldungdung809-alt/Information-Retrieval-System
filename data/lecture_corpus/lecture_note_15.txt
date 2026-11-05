@@ -1,0 +1,1 @@
+Porter stemming is a common algorithm for English.

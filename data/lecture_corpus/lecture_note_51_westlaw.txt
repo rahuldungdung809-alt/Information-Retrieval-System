@@ -1,0 +1,1 @@
+Westlaw is a legal information retrieval system mentioned as an example of Boolean query use. Legal researchers can combine terms with Boolean operators to find relevant documents. A Westlaw-style query can use terms such as statute, limitations, federal, tort, and claims. Boolean queries provide exact inclusion or exclusion of documents through AND, OR, and NOT logic.

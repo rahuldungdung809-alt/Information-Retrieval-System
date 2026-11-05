@@ -1,0 +1,1 @@
+Wild-card queries enumerate terms from a dictionary.

@@ -1,0 +1,1 @@
+Lecture 1 introduces information retrieval and web search mining.

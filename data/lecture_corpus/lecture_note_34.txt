@@ -1,0 +1,1 @@
+Permuterm rotations include hello$, ello$h, and llo$he.

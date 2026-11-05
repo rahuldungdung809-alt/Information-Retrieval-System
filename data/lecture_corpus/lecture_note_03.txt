@@ -1,0 +1,1 @@
+A dictionary maps a term to information about its postings list.

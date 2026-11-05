@@ -1,0 +1,1 @@
+Frequency in the dictionary helps with query optimization.

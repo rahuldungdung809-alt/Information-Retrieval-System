@@ -1,0 +1,1 @@
+A single index may contain terms from several languages.

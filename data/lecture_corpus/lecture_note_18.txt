@@ -1,0 +1,1 @@
+If list lengths are m and n, merging takes O(m+n).

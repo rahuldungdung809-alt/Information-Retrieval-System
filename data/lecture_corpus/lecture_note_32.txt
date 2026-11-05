@@ -1,0 +1,1 @@
+Wildcard evaluation can execute many Boolean AND queries.

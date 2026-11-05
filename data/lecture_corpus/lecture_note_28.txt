@@ -1,0 +1,1 @@
+Position values can be compressed as offsets.

@@ -1,0 +1,1 @@
+N-gram overlap narrows spelling-correction candidates.

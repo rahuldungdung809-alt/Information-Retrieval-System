@@ -1,0 +1,1 @@
+Lecture topics include inverted indexes, wildcard indexes, spell correction, and Soundex.

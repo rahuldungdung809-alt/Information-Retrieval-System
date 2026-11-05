@@ -1,0 +1,1 @@
+Skip pointers can augment postings at indexing time.

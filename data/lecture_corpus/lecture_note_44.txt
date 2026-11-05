@@ -1,0 +1,1 @@
+Spelling correction can retrieve documents under a correct spelling.

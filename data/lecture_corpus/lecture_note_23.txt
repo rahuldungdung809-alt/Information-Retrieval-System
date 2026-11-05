@@ -1,0 +1,1 @@
+A longer phrase can be processed as a Boolean query on biwords.

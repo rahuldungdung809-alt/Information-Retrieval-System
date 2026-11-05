@@ -1,0 +1,1 @@
+Normalization handles different forms used in documents and queries.

@@ -1,0 +1,1 @@
+Walk through two postings lists simultaneously for intersection.

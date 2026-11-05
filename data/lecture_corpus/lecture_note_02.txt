@@ -1,0 +1,1 @@
+Boolean queries provide exact match retrieval in a collection of documents.

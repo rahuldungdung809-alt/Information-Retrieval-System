@@ -1,0 +1,1 @@
+Positional indexes expand postings storage substantially.

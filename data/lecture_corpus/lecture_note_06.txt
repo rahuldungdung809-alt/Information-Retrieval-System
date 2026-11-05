@@ -1,0 +1,1 @@
+Basic inverted indexes use a dictionary and postings structure.

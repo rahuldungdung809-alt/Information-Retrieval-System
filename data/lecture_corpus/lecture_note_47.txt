@@ -1,0 +1,1 @@
+Soundex builds and searches an index on reduced forms.

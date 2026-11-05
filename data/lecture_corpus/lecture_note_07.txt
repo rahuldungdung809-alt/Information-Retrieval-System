@@ -1,0 +1,1 @@
+Sorting is a key step in inverted-index construction.

@@ -1,0 +1,1 @@
+Soundex is a phonetic matching method.

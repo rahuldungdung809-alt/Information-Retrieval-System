@@ -1,0 +1,1 @@
+A document can contain multiple languages and formats.

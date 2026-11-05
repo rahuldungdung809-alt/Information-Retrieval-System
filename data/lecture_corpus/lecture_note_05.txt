@@ -1,0 +1,1 @@
+The result is split into a dictionary file and a postings file.

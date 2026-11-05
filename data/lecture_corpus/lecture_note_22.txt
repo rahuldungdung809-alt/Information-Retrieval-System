@@ -1,0 +1,1 @@
+Biword indexes are a first attempt for phrase queries.

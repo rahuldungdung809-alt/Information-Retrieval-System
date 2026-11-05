@@ -1,0 +1,1 @@
+Bigram indexes use boundary symbols such as $a and l$.
