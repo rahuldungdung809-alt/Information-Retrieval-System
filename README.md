@@ -119,3 +119,14 @@ The inverted index is maintained in memory. If a document in the corpus is modif
 **Rahul Dungdung**
 
 GitHub: [rahuldungdung809-alt](https://github.com/rahuldungdung809-alt)
+
+## Project Screenshots
+
+### 1. Home Page
+![Home Page](screenshots/Home_page.png)
+
+### 2. Search Results
+![Search Results](screenshots/Search_page.png)
+
+### 3. Wildcard Search
+![Wildcard Search](screenshots/Wildcard.png)
